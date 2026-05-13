@@ -9,7 +9,7 @@ class QE {
         double a = input.nextDouble();
         System.out.println("Enter the value of b: ");
         double b = input.nextDouble();
-        System.out.println("Enter the value of c: ");
+        System.out.println("Enter the value of c:12 ");
         double c = input.nextDouble();
 
         double det = b * b - 4 * a * c;
